@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void agregaId(){ /* El valor ha sido modificado*/
+    public void agregaId(){
+
 
     }
 
